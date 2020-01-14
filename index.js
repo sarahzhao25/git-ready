@@ -1,5 +1,5 @@
 function dumbledoreLand() {
-  console.log('My socks are warm and fuzzy!');
+  console.log('My socks are cold and wet!');
 }
 
 dumbledoreLand();
