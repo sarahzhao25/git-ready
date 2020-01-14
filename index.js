@@ -1,5 +1,9 @@
 function dumbledoreLand() {
-  console.log('My socks are warm and fuzzy!');
+  return 'My socks are warm and fuzzy!';
 }
 
-dumbledoreLand();
+const harry = {
+  lastName: "Potter",
+  petName: "Hedwig",
+  petStatus: false
+}
